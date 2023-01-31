@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45d66f3-d809-4083-885a-773ed44f7913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/ContaCorrente.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

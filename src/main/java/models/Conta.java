@@ -1,5 +1,8 @@
 package models;
 
+import lombok.*;
+
+@Getter
 public abstract class Conta implements InterfaceConta {
 
     private static final int AGENCIA_PADRAO = 1;
@@ -16,21 +19,6 @@ public abstract class Conta implements InterfaceConta {
         this.numeroConta = SEQUENCIAL++;
         this.cliente = cliente;
     }
-
-
-
-    public int getAgencia() {
-        return agencia;
-    }
-
-    public int getNumeroConta() {
-        return numeroConta;
-    }
-
-    public double getSaldo() {
-        return saldo;
-    }
-
     @Override
     public void sacar(double valor) {
         saldo -= valor;
