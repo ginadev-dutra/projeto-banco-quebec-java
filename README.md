@@ -15,5 +15,4 @@ Agora é a sua hora de brilhar, use todo seu conhecimento em Java e Orientação
 
 ● Incluir o Lombok ao projeto para reduzir sua verbosidade 
 de código.
-# projeto-banco-quebec-java
-# projeto-banco-quebec-java
+
